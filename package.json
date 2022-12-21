@@ -1,0 +1,25 @@
+{
+  "name": "typescript-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiomartins1/typescript-tricks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiomartins1/typescript-tricks/issues"
+  },
+  "homepage": "https://github.com/caiomartins1/typescript-tricks#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.17",
+    "typescript": "^4.9.4",
+    "vitest": "^0.26.2"
+  }
+}
